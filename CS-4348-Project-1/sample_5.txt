@@ -1,0 +1,103 @@
+.0
+1   // Load "(" (ASCII 40)
+40
+9   // Output as char
+2
+1   // Load "\" (ASCII 92)
+92
+9   // Output as char
+2
+1   // Load "_" (ASCII 95)
+95
+9   // Output as char
+2
+1   // Load "_" (ASCII 95)
+95
+9   // Output as char
+2
+1   // Load "_" (ASCII 95)
+95
+9   // Output as char
+2
+1   // Load "/" (ASCII 47)
+47
+9   // Output as char
+2
+1   // Load ")" (ASCII 41)
+41
+9   // Output as char
+2
+23  // Call newline
+220
+
+1   // Load "(" (ASCII 40)
+40
+9   // Output as char
+2
+1   // Load "=" (ASCII 61)
+61
+9   // Output as char
+2
+1   // Load "^" (ASCII 94)
+94
+9   // Output as char
+2
+1   // Load "." (ASCII 46)
+46
+9   // Output as char
+2
+1   // Load "^" (ASCII 94)
+94
+9   // Output as char
+2
+1   // Load "=" (ASCII 61)
+61
+9   // Output as char
+2
+1   // Load ")" (ASCII 41)
+41
+9   // Output as char
+2
+23  // Call newline
+220
+
+1   // Load "(" (ASCII 40)
+40
+9   // Output as char
+2
+1   // Load """ (ASCII 34)
+34
+9   // Output as char
+2
+1   // Load ")" (ASCII 41)
+41
+9   // Output as char
+2
+1   // Load "_" (ASCII 95)
+95
+9   // Output as char
+2
+1   // Load "(" (ASCII 40)
+40
+9   // Output as char
+2
+1   // Load """ (ASCII 34)
+34
+9   // Output as char
+2
+1   // Load ")" (ASCII 41)
+41
+9   // Output as char
+2
+
+50  // End
+
+.220
+1   // Load 10 (ASCII for newline)
+10
+9   // Output as char
+2
+24  // Return
+
+.1000
+30  // Interrupt handler - just return
